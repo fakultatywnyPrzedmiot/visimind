@@ -1,0 +1,27 @@
+﻿Definition of Done:
+
+
+* sprawdzenie wyglądu strony na różnych przeglądarkach
+* sprawdzenie działania strony na różnych przeglądarkach
+* test intuicyjności nawigowania portalem
+* sprawdzenie treści pod kątem błędów
+* sprawdzenie czy strona jest dostosowana dla ludzi niepełnosprawnych
+* sprawdzenie jak działa na urządzeniach mobilnych
+* sprawdzenie czy jest zabezpieczona przed wyciekiem danych
+
+
+
+
+Kryteria Akceptacji:
+
+* sprawdzenie czy plik ma rozszerzenie PNG, JPG lub GIF
+* posiada możliwość "drag & drop"
+* sprawdzenie czy plik ma rozmiar do 10MB
+* posiada podpis "Wybierz plik do przesłania"
+* rozróżnianie wielkich i małych liter w nazwie pliku
+* posiada pasek progresu przesyłania pliku
+* sprawdzenie czy posiadany dostęp do internetu
+* możliwość ustawienia rozmiaru zdjęcia
+* możliwość wybrania czasu przechowywania na serwerze
+* po dodaniu pliku możliwość dodania kolejnego lub zatwierdzenie przesłania na serwer
+* komunikat o pomyślnym lub niepomyślnym przesłaniu pliku
